@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Added with ChatGPT - 12-4-25
+"Click Me !!" page with snake game support.
